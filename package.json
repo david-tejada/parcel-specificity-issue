@@ -1,0 +1,16 @@
+{
+  "name": "parcel-specificity-issue",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "parcel build main.ts",
+    "start": "node ./dist/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "specificity": "^1.0.0",
+    "typescript": "^5.6.2"
+  }
+}
