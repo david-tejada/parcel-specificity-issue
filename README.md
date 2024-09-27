@@ -1,4 +1,4 @@
-This is a minimal reproduction of an issue where importing the dependency `specificity` causes Parcel creates a corrupt bundle that errors with the message:
+This is a minimal reproduction of an issue where importing the dependency [specificity](https://github.com/keeganstreet/specificity) causes Parcel creates a corrupt bundle that errors with the message:
 
 ```
 ReferenceError: $c65b14922fc6cad5$exports is not defined
